@@ -6,6 +6,14 @@ Desarrollador de Colombia apasionado por crear soluciones que combinan tecnologi
 
 ---
 
+### 🔭 Actualmente trabajando en
+
+- **Agente IA para WhatsApp** — Asistente virtual para joyeria con atencion al cliente, catalogo, pedidos y pagos automatizados
+- **E-commerce de Joyeria** — Plataforma completa con catalogo, carrito y panel admin
+- **Estrategias de Trading** — Expert Advisors y herramientas de analisis para MetaTrader 5
+
+---
+
 ### 🚀 Lo que hago
 
 **🌐 Desarrollo Web Full-Stack**
@@ -54,9 +62,19 @@ Desarrollador de Colombia apasionado por crear soluciones que combinan tecnologi
 | **[💎 Aurem GS Joyeria](https://github.com/Sebastianlr11/aurem-gs-joyeria)** | E-commerce completo para joyeria con catalogo, pagos, panel admin y chat en tiempo real | React, TypeScript, Supabase, Mercado Pago |
 | **[🤖 Agente WhatsApp IA](https://github.com/Sebastianlr11/n8n-whatsapp-agent)** | Agente conversacional "Valentina" con function calling, vision, audio y pagos automatizados | n8n, Claude AI, WhatsApp API, Supabase |
 | **[🧵 Quirurgicos Pro](https://github.com/Sebastianlr11/quirurgicos-pro)** | Sistema de nomina por produccion para fabrica de confecciones | React, TypeScript, Supabase, Zustand |
-| **[⚡ MT5 Portfolio Manager](https://github.com/Sebastianlr11/mt5-portfolio-manager)** | Herramienta web para analizar rendimiento de estrategias de trading | React, TypeScript, Vite, Tailwind |
+| **[📊 EA Analyzer](https://github.com/Sebastianlr11/mt5-ea-analyzer)** | Herramienta web para analizar rendimiento historico de Expert Advisors | React, TypeScript, Vite, Tailwind |
+| **[⚡ Portfolio Manager MT5](https://github.com/Sebastianlr11/mt5-portfolio-manager)** | Analisis y comparacion de estrategias de trading con equity curves y reportes | React, TypeScript, Vite, Tailwind |
 | **[🎛️ Panel Maestro MT5](https://github.com/Sebastianlr11/mt5-panel-maestro)** | Expert Advisor con panel grafico, kill switch y gestion por Magic Number | MQL5, MetaTrader 5 |
-| **[📊 Reportes MT5](https://github.com/Sebastianlr11/mt5-reportes)** | Reportes HTML del historial de operaciones con filtrado por Magic Number | MQL5, MetaTrader 5 |
+| **[📈 Reportes MT5](https://github.com/Sebastianlr11/mt5-reportes)** | Reportes HTML del historial de operaciones con filtrado por Magic Number | MQL5, MetaTrader 5 |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sebastianlr11&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebastianlr11&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Top Languages" height="170"/>
+</p>
 
 ---
 
