@@ -1,18 +1,18 @@
 # Hola, soy Sebastián 👋
 
-**Desarrollador Full-Stack · Automatizaciones & IA · Trading Algorítmico**
+**Desarrollador Full-Stack · Automatización con IA · Python**
 
-Desarrollador de Colombia 🇨🇴 apasionado por crear soluciones que combinan tecnología web, inteligencia artificial y automatización. Construyo desde aplicaciones web completas y agentes de IA hasta sistemas de trading algorítmico y arbitraje en tiempo real.
+Desarrollador de Colombia 🇨🇴 apasionado por crear soluciones que combinan tecnología web, inteligencia artificial y automatización. Construyo desde aplicaciones web completas y agentes de IA hasta sistemas de datos y automatización en tiempo real.
 
-> 🟢 **Disponible para trabajo remoto** — desarrollo full-stack, automatización con IA y sistemas de datos/trading.
+> 🟢 **Disponible para trabajo remoto** — desarrollo full-stack, automatización con IA y sistemas de datos en Python.
 
 ---
 
 ### 🔭 Actualmente trabajando en
 
-- **Sistema de Arbitraje P2P Multi-Exchange** — market-making de criptomonedas en tiempo real (4 exchanges), con repricing automático, contabilidad de P&L y dashboard en vivo (Python · Flask · SSE)
-- **Suite de Trading Algorítmico MT5** — Expert Advisors y herramientas de análisis de portafolios, backtesting y gestión de riesgo
+- **Aplicaciones web full-stack** — e-commerce y sistemas de gestión con React, TypeScript y Supabase
 - **Agentes de IA & Automatización** — asistentes conversacionales y workflows con n8n + Claude AI
+- **Sistemas de datos en tiempo real en Python** — integración de múltiples APIs, procesamiento en vivo y dashboards (Flask · SSE)
 
 ---
 
@@ -28,10 +28,10 @@ Desarrollador de Colombia 🇨🇴 apasionado por crear soluciones que combinan 
 - Agentes conversacionales con Claude AI (Anthropic): function calling, visión y audio
 - Integración con WhatsApp Business API
 
-**📈 Trading Algorítmico & Datos**
-- Sistemas en tiempo real en Python (Flask, SSE, concurrencia, integración de APIs)
-- Expert Advisors y herramientas para MetaTrader 5 (MQL5)
-- Análisis de portafolios, contabilidad FIFO, P&L y optimización de estrategias
+**📈 Python & Sistemas de Datos**
+- Sistemas en tiempo real (Flask, SSE, concurrencia, integración de múltiples APIs)
+- Procesamiento de datos, contabilidad y análisis (FIFO, series temporales, dashboards)
+- También aplicado a herramientas de trading algorítmico para MetaTrader 5 (MQL5)
 
 ---
 
@@ -60,13 +60,11 @@ Desarrollador de Colombia 🇨🇴 apasionado por crear soluciones que combinan 
 
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
-| **[⚡ P2P Arbitrage System](https://github.com/Sebastianlr11/p2p-arbitrage-system)** | Market-making y arbitraje P2P (USDT/COP) multi-exchange en tiempo real: monitor de precios, repricing automático, contabilidad P&L y dashboard en vivo | Python, Flask, SSE |
-| **[🤖 Agente WhatsApp IA](https://github.com/Sebastianlr11/n8n-whatsapp-agent)** | Agente conversacional "Valentina" con function calling, visión, audio y pagos automatizados | n8n, Claude AI, WhatsApp API, Supabase |
 | **[💎 Aurem GS Joyería](https://github.com/Sebastianlr11/aurem-gs-joyeria)** | E-commerce completo con catálogo, pagos, panel admin y chat en tiempo real | React, TypeScript, Supabase, Mercado Pago |
+| **[🤖 Agente WhatsApp IA](https://github.com/Sebastianlr11/n8n-whatsapp-agent)** | Agente conversacional "Valentina" con function calling, visión, audio y pagos automatizados | n8n, Claude AI, WhatsApp API, Supabase |
 | **[🧵 Quirúrgicos Pro](https://github.com/Sebastianlr11/quirurgicos-pro)** | Sistema de nómina por producción para fábrica de confecciones, con liquidación automática y reportes en tiempo real | React, TypeScript, Supabase, Zustand |
-| **[📊 WFM Analyzer](https://github.com/Sebastianlr11/wfm-analyzer)** | Herramienta para analizar estrategias de StrategyQuant X: detecta zonas estables en matrices Walk Forward, rankea y exporta | Python |
-| **[📈 EA Analyzer MT5](https://github.com/Sebastianlr11/mt5-ea-analyzer)** | Análisis del rendimiento histórico de Expert Advisors: métricas, drawdown, profit factor y curvas de equity | React, TypeScript, Vite |
-| **[🎛️ Panel Maestro MT5](https://github.com/Sebastianlr11/mt5-panel-maestro)** | Expert Advisor con panel gráfico, kill switch y gestión por Magic Number | MQL5, MetaTrader 5 |
+| **[⚡ Sistema P2P en Tiempo Real](https://github.com/Sebastianlr11/p2p-arbitrage-system)** | Sistema en Python que integra múltiples APIs, procesa datos en vivo y sirve un dashboard en tiempo real con contabilidad automática | Python, Flask, SSE |
+| **[📊 WFM Analyzer](https://github.com/Sebastianlr11/wfm-analyzer)** | Herramienta de análisis de datos: detecta zonas estables en matrices, rankea y exporta resúmenes | Python |
 
 ---
 
