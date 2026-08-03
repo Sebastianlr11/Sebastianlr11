@@ -73,15 +73,6 @@ Desarrollador de Colombia 🇨🇴. Construyo cosas que funcionan en producción
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sebastianlr11&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebastianlr11&layout=compact&theme=tokyonight&hide_border=true&locale=es&hide=html&langs_count=8" alt="Top Languages" height="170"/>
-</p>
-
----
-
 ### 📫 Contacto
 
 ¿Buscas a alguien para tu equipo remoto o tienes un proyecto en mente? Escríbeme.
